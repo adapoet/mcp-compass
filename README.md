@@ -6,6 +6,15 @@
 
 ## MCP Discovery & Recommendation
 
+### Experience MCP Compass 🌐
+
+You can now experience MCP discovery directly on our website!  
+👉 **[Explore MCP Compass](https://mcphub.io/)** 👈  
+
+Dive in to discover the power of MCP services in action with real-time recommendations and insights.
+
+---
+
 ## What is this? 🤔
 
 MCP Compass is a discovery & recommendation service that helps you explore Model Context Protocol servers. It acts as a smart guide that helps AI assistants find and understand available MCP services out there based on **natural language queries**, making it easier to discover and utilize the right tools for specific tasks.
